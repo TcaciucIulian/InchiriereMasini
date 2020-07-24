@@ -1,0 +1,25 @@
+Marca,Model,An fabricatie,Disponibil,Pret,Tip
+BMW,F30,2015,true,25,Da
+BMW,F15,2020,true,40,Nu
+BMW,F10,2020,false,60,Da
+Mercedes,E220,2008,false,10,Nu
+Mercedes,C220,2018,false,30,Nu
+Mercedes,S650,2019,true,100,Da
+Audi,A3,2016,false,30,Nu
+Audi,A8,2018,true,45,Da
+BMW,Seria3,2012,true,30,Da
+BMW,SERIA3,2020,true,40,Da
+Mercedes,S600,2015,true,20,Nu
+BMW,SERIA8,2020,true,50,Da
+BMW,Seria3,2010,true,30,Da
+BMW,SERIA3,2010,true,50,Da
+BMW,SERIA3,2010,true,50,Da
+BMW,SERIA3,2015,true,10,Sport
+BMW,Seria3,2015,true,20,Sport
+Audi,A7,2017,true,30,4x4
+BMW,Seria7,2019,true,30,Sport
+Mercedes,S650,2020,true,50,Maybach
+Audi,A7,2015,true,20,4x4
+BMW,SERIA3,2012,true,15,Sport
+Mercedes,C220,2015,true,30,Maybach
+Audi,A8,2019,true,70,4x4
